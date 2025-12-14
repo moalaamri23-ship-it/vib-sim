@@ -1,0 +1,5 @@
+{
+  "name": "Pro ODS Simulator",
+  "description": "Professional-grade Operating Deflection Shape simulator for rotating machinery analysis. Features real-time physics-based mode shapes, phase analysis, and vector visualization.",
+  "requestFramePermissions": []
+}
